@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 84.3877,
+        "lat": 33.7488
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 267.53,
+        "feels_like": 267.53,
+        "temp_min": 267.53,
+        "temp_max": 267.53,
+        "pressure": 1020,
+        "humidity": 58,
+        "sea_level": 1020,
+        "grnd_level": 568
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.53,
+        "deg": 202,
+        "gust": 0.56
+    },
+    "clouds": {
+        "all": 63
+    },
+    "dt": 1697822300,
+    "sys": {
+        "country": "CN",
+        "sunrise": 1697848283,
+        "sunset": 1697888559
+    },
+    "timezone": 28800,
+    "id": 1279556,
+    "name": "Yubzha",
+    "cod": 200
+}
